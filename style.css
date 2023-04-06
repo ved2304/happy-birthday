@@ -1,0 +1,22 @@
+body{
+text-align: center;
+background: linear-gradient(to bottom right, #000099 20%, #00ccff 60%);
+
+}
+head{
+
+
+    text-align: center;
+}
+img
+{
+border:dotted;
+border-radius:500px;
+border-width: 15px;
+border-color: red;
+}
+p{
+text-color:black;
+text-decoration: underline;
+text_width:100px;
+}
